@@ -4,7 +4,7 @@
 <br/>
 
 
-<p align="center">
+<p align="center" width="100%">
   <a href="https://github.com/saifulislam07">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifulislam07&theme=radical" alt="saiful's GitHub Contribution"/>
   </a>
